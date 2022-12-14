@@ -1,2 +1,2 @@
 # Quickdemoapp
-This is a quick demo 
+This is a quick demo.
